@@ -3,7 +3,7 @@
 The purpose of this project is to demonstrate how to properly implement a test first approch (TDD) to coding with react and redux.
 
 Within this project you will find examples of testing:
-
+YO
 * Connected and unconnected components
 * Component state and Redux state
 * Action creators and reducers
